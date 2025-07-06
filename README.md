@@ -3,7 +3,7 @@
 This is a command-line tool that uses a machine learning model to detect phishing URLs based on handcrafted features. The project is built with Python and structured for clarity, reusability, and extension.
 
 ## Features
-<<<<<<< HEAD
+
 - URL feature extraction
 - ML classifier (Random Forest)
 - Detects phishing vs legitimate URLs
@@ -83,7 +83,3 @@ Notes
     You can replace the dataset CSV and retrain using the same script.
 
     CLI is kept minimal for testing and academic demonstration. For production, consider expanding to API or web interface.
-
-License
-
-This project is open for learning and demonstration purposes. Please give credit if reused or extended.
