@@ -10,7 +10,8 @@ This is a command-line tool that uses a machine learning model to detect phishin
 - Command-line interface for real-time predictions
 - Lightweight and dependency-minimal
 
-<pre lang="markdown"><code>## Project Structure ``` Phishing-Detection/ ├── data/ # Dataset storage ├── models/ # Trained ML model ├── src/ # Core logic modules │ ├── features.py # Feature extraction methods │ ├── train.py # Model training logic │ └── utils.py # Dataset loading and preprocessing ├── main.py # Pipeline entry for training ├── predict.py # CLI for URL prediction ├── requirements.txt # Python dependencies └── README.md # Project documentation ``` </code></pre>
+## Project Structure
+Phishing-Detection/ ├── data/ # Dataset storage ├── models/ # Trained ML model ├── src/ # Core logic modules │ ├── features.py # Feature extraction methods │ ├── train.py # Model training logic │ └── utils.py # Dataset loading and preprocessing ├── main.py # Pipeline entry for training ├── predict.py # CLI for URL prediction ├── requirements.txt # Python dependencies └── README.md # Project documentation
 
 ## How It Works
 
