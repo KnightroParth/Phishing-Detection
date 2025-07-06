@@ -5,5 +5,5 @@ The system is trained on a labeled dataset and deployed via a simple CLI or web 
 
 ## Features
 - URL feature extraction
-- ML classifier (Random Forest / XGBoost / etc.)
-- Email header/text analysis (optional)
+- ML classifier (Random Forest)
+- Email header/text analysis
