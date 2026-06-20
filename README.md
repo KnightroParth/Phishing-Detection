@@ -23,6 +23,8 @@ Phishing-Detection/
 ├── predict.py             # CLI for URL prediction
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
+```
+
 ## How It Works
 
 1. `main.py` loads a labeled dataset and extracts meaningful features from each URL.
