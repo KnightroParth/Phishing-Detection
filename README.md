@@ -11,7 +11,7 @@ This is a command-line tool that uses a machine learning model to detect phishin
 - Lightweight and dependency-minimal
 
 ## Project Structure
-\`\`\`text
+```text
 Phishing-Detection/
 ├── data/                  # Dataset storage
 ├── models/                # Trained ML model
@@ -23,7 +23,6 @@ Phishing-Detection/
 ├── predict.py             # CLI for URL prediction
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
-\`\`\`
 ## How It Works
 
 1. `main.py` loads a labeled dataset and extracts meaningful features from each URL.
